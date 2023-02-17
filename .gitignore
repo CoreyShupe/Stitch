@@ -1,2 +1,8 @@
+# IDE Artifacts
+
 .idea/
 .fleet/
+
+# Rust Artifacts
+
+/target
